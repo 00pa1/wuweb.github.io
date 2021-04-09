@@ -336,7 +336,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: Photoshop 2s ease;
 }
 .Matlab {
-  	width: 50%;
+  	width: 80%;
   	-moz-animation: Matlab 2s ease;
   	-webkit-animation: Matlab 2s ease;
 }
@@ -358,52 +358,52 @@ ul#nav li.current a { color: #F06000; }
 
 @-moz-keyframes Python {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 90%;  }
 }
 @-moz-keyframes Photoshop {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 20%;  }
 }
 @-moz-keyframes Matlab {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 80%;  }
 }
 @-moz-keyframes css {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 10%;  }
 }
 @-moz-keyframes html5 {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 20%;  }
 }
 @-moz-keyframes jquery {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 10%;  }
 }
 
 @-webkit-keyframes Python {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 90%;  }
 }
 @-webkit-keyframes Photoshop {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 20%;  }
 }
 @-webkit-keyframes Matlab {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 80%;  }
 }
 @-webkit-keyframes css {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 10%;  }
 }
 @-webkit-keyframes html5 {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 20%;  }
 }
 @-webkit-keyframes jquery {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 10%;  }
 }
 
 /* ------------------------------------------------------------------ */
